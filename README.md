@@ -22,5 +22,5 @@ This project analyzes healthcare metrics in California using data visualization 
 - Tableau
 - Power BI
 - Excel
-- Python - (Yet to add)
+
 
