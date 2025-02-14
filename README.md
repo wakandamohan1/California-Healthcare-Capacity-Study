@@ -38,7 +38,7 @@ This project analyzes healthcare metrics in California using data visualization 
 
 📊 **Power BI Dashboard:** [DOWNLOAD](https://drive.google.com/file/d/1q6Xzme3LUMQF9oUquyoOkPpPhIf-7s5A/view?usp=drive_link)  
 
-📊 **Tableau Dashboard:** [DOWNLOAD](https://drive.google.com/file/d/1A_RNeYKOrccTrEIb3Dr_UfwsoGKyJBCn/view?usp=drive_link)   
+📊 **Tableau Dashboard:** [DOWNLOAD](https://drive.google.com/file/d/1rmt2apO2RGorHtTpxDF-fF7OkJqnU4Qj/view?usp=drive_link)   
 
 📑 **Excel File:** [DOWNLOAD](https://drive.google.com/file/d/1cfcjIZh4OGnVsjoIXTv0hPUkTghUi4_a/view?usp=drive_link)   
 
