@@ -21,8 +21,14 @@ This project analyzes healthcare metrics in California using data visualization 
 
 ---
 ### 📂 Dataset & Usage Instructions
-- The dataset is provided in `.xlsx` format in the drive link.
-- **Important:** After downloading the file from Google Drive, open it with **Microsoft Excel**, not Google Sheets, to ensure formatting and formulas work correctly.
+Important:
+
+For Excel: After downloading the file from Google Drive, open it with Microsoft Excel, not Google Sheets, to ensure formatting and formulas work correctly.
+
+For Power BI: Download and open the dataset in .pbix format using Power BI Desktop.
+
+For Tableau: Download and open the dataset in .twbx format using Tableau Desktop.
+
 
 ## 🛠 Tools Used  
 📊 **Tableau** | 📊 **Power BI** | 📑 **Excel**  
