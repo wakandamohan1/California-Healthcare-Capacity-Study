@@ -7,8 +7,8 @@ This project analyzes healthcare metrics in California using data visualization 
 ---
 
 ## 🚀 Project Contents  
-📊 **Dashboards**: Interactive visualizations created in Tableau & Power BI  
-🎥 **Videos**: Walkthroughs explaining the analysis and findings  
+📊 **Dashboards**: Interactive visualizations created in Excel , Tableau & Power BI.  
+🎥 **Videos**: Walkthroughs explaining the analysis and findings.
 
 ---
 
@@ -32,7 +32,7 @@ This project analyzes healthcare metrics in California using data visualization 
 
 **VIDEO LINK** [DOWNLOAD](https://drive.google.com/file/d/1_AmGB82Uw5VNWRKan0q96krT3r4pXIlJ/view?usp=drive_link)  
 
-🔹 **/Dashboards** → Visualizations in Tableau & Power BI  
+🔹 **/Dashboards** → Visualizations in Excel , Tableau & Power BI  
 
 ## 📥 Download Links  
 
