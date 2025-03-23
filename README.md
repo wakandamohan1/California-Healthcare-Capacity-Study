@@ -20,6 +20,9 @@ This project analyzes healthcare metrics in California using data visualization 
 ✅ **Data Cleaning & Wrangling**: Documented steps for reproducibility  
 
 ---
+### 📂 Dataset & Usage Instructions
+- The dataset is provided in `.xlsx` format in the drive link.
+- **Important:** After downloading the file from Google Drive, open it with **Microsoft Excel**, not Google Sheets, to ensure formatting and formulas work correctly.
 
 ## 🛠 Tools Used  
 📊 **Tableau** | 📊 **Power BI** | 📑 **Excel**  
