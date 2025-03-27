@@ -3,7 +3,7 @@
 This project analyzes healthcare metrics in California using data visualization tools to uncover trends, revenue insights, and hospital performance.  
 
 ## 📌 Dashboard Preview - Tableau 
-![Dashboard Preview](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study/blob/main/Screenshot%202025-02-14%20050910.png)  
+![Dashboard Preview](https://github.com/wakandamohan1/California-Healthcare-Capacity-Study/blob/main/tableau_screenshot.png)  
 --- 
 
 ## 🚀 Project Contents  
